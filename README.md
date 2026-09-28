@@ -6,17 +6,16 @@ Version history and audit trail for Stefano Grancini's academic CV.
 
 | | |
 |---|---|
-| **Canonical latest version** | <https://cv.stefanograncini.com/cv.pdf> |
-| GitHub Pages mirror | <https://sgrancini.github.io/cv/cv.pdf> |
-| Mirror landing page | <https://sgrancini.github.io/cv/> |
+| **Authoritative latest version** | <https://sgrancini.github.io/cv/cv.pdf> |
+| Landing page | <https://sgrancini.github.io/cv/> |
 
-Circulate the canonical URL — on the website, in emails, in application materials.
-It is served by Cloudflare Pages (project `stefano-grancini-cv`) with
-`Cache-Control: no-store`, so a browser can never show a previously downloaded
-version. The GitHub Pages mirror sends `cache-control: max-age=600`, so it can lag
-by up to ten minutes; it exists for history and as a fallback, not for circulation.
+Circulate `https://sgrancini.github.io/cv/cv.pdf` everywhere: on the website, in
+emails, in application materials and inside the CV itself. It is served by GitHub
+Pages from `cv.pdf` on the `main` branch of this repository.
 
 `cv.pdf` is always the latest approved version. There are no dated filenames.
+GitHub Pages lets browsers cache files for up to ten minutes, so a reader who opened
+the link just before an update may need to reload.
 
 ## Source of the CV
 
