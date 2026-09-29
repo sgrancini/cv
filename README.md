@@ -28,7 +28,7 @@ never modified.
 
 Double-click:
 
-    Desktop/WORK/Job Market/Publish CV.command
+    /Users/stefanograncini/Desktop/WORK/Job Market/cv/Publish CV.command
 
 Pick the PDF, read the summary it prints (path, filename, pages, size, SHA-256,
 and how it differs from what is live and from every synchronized copy), then type
